@@ -1,0 +1,2 @@
+set CC_FOR_TARGET "/usr/bin/ccache /home/saurabhtayde/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -target aarch64-linux-android21 -fomit-frame-pointer -march=armv8-a"
+set CXX_FOR_TARGET "/usr/bin/ccache /home/saurabhtayde/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -target aarch64-linux-android21 -fomit-frame-pointer -march=armv8-a"
