@@ -2,6 +2,9 @@
 This repository consists of the python codes and files that are required to build an android app - 'A Feel Good App'.
 After signup and successful login, this app asks user about how he is feeling now and three options are given - 'happy', 'sad', 'unloved'. 
 When one option out of these three is selected by user, app gives the quote to make the user feel good and happy. User can also select next and read the next quotes.
+
+Please refer screenshots of the app in the 'Final UI Screens on Mobile' folder
+
 'APK' file is the output of the final code and this file can be installed in the android app. (App is not deployed on Google playstore).
 
 Following are the steps used to develop this app:
